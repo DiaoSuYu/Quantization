@@ -1,1 +1,3 @@
-# This repository is use to upload some Quantitative trading strategies that use to record for my self and share to others.
+This branch is use to record something of Small cap quantitative trading strategy.
+
+* Test environment: https://www.joinquant.com/
